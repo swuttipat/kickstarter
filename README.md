@@ -7,7 +7,6 @@ from data analysis.
 * Jupyter notebook version 6.3.0
 * Python  version 3.3.8
 * Python libraries
-  * datetime
   * numpy
   * pandas
   * seaborn
